@@ -33,6 +33,9 @@ console.log("First item removed from array is: ",firstLang);
 
 //unshift:  add one or more element at the start of the array and returns new length
 
-
+let newLangArray=lang.unshift("GOLANG", "PERL")
+console.log(lang)
+console.log(newLangArray);
+console.log(newLangArray.length);
 
 
