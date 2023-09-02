@@ -63,7 +63,7 @@ let Media=media1.concat(media2)
 // console.log(Media.length);
 
 
-//8. indexOf: returns index of first occurance of an element in array
+//8. indexOf: returns index of first occurance of an element in array | Return -1 if not found
 
 let sweets = ["toffee", "cake", "donuts"]
 
