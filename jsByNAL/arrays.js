@@ -31,6 +31,8 @@ let firstLang=lang.shift()
 console.log(lang);
 console.log("First item removed from array is: ",firstLang);
 
+//unshift:  add one or more element at the start of the array and returns new length
+
 
 
 
