@@ -4,3 +4,9 @@ import { hello, name, age } from "./exportDemo.js";  /*To import we need type: m
 hello("kapil")
 
 console.log("Your age is: ",age);
+
+/*  
+       Output:
+                 hello kapil  //Call function in exported class
+                 Your age is : 40  //Call variable defined in exported class
+*/
